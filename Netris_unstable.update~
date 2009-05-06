@@ -1,7 +1,7 @@
 version = 1
 host = "github.com"
 dir = "bartbes/netris/raw/51837630c7826f8b833235cf42b74d4597bfc476/"
-dirs = { "libs", "libs/LoveUI", "libs/LoveUI/images", "libs/LoveUI/sounds"
+dirs = { "libs", "libs/LoveUI", "libs/LoveUI/images", "libs/LoveUI/sounds" }
 
 changedFiles[1] = {
 	"block.lua",
