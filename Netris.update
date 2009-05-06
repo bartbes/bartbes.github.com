@@ -1,0 +1,5 @@
+version = 0
+host = "github.com"
+dir = "bartbes/netris/raw/cbe922217d3b71a4ac62cd66144ccfe9b370124a/"
+dirs = { "libs" }
+
