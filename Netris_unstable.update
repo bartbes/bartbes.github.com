@@ -1,6 +1,6 @@
 version = 2
 host = "github.com"
-dir = "bartbes/netris/raw/e4af71c9d7bdd5501cabad77c45491beb3f0b98b/"
+dir = "bartbes/netris/raw/5836a86d0981711712dd509f24ac41255ace2574/"
 dirs = { "libs", "libs/LoveUI", "libs/LoveUI/images", "libs/LoveUI/sounds" }
 
 changedFiles[version] = {
