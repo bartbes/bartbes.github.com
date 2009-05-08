@@ -1,6 +1,6 @@
-version = 1
+version = 2
 host = "github.com"
-dir = "bartbes/netris/raw/51837630c7826f8b833235cf42b74d4597bfc476/"
+dir = "bartbes/netris/raw/e4af71c9d7bdd5501cabad77c45491beb3f0b98b/"
 dirs = { "libs", "libs/LoveUI", "libs/LoveUI/images", "libs/LoveUI/sounds" }
 
 changedFiles[version] = {
@@ -44,6 +44,7 @@ changedFiles[version] = {
 	"libs/LoveUI/LoveUIStack.lua",
 	"libs/LoveUI/LoveUITextfield.lua",
 	"libs/LoveUI/LoveUITextfieldCell.lua",
+	"libs/LoveUI/LoveUITextView.lua",
 	"libs/LoveUI/LoveUIView.lua",
 	"libs/LUBE.lua",
 	"libs/serverbrowser.lua",
