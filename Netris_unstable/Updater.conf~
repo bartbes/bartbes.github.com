@@ -1,4 +1,0 @@
-Updater.server = "bart.famvanstrien.nl"
-Updater.path = "/zgeigcopters.update"
-Updater.autoupdate = false
-Updater.applicationmanaged = true
