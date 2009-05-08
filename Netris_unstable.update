@@ -1,6 +1,6 @@
 version = 2
 host = "bartbes.github.com"
-dir = "Netris_unstable/"
+dir = "/Netris_unstable/"
 dirs = { "libs", "libs/LoveUI", "libs/LoveUI/images", "libs/LoveUI/sounds" }
 
 changedFiles[version] = {
