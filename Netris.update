@@ -1,4 +1,4 @@
-version = 2
+version = 3
 host = "github.com"
 dir = "/bartbes/netris/raw/master/"
 dirs = { "libs", "libs/LoveUI", "libs/LoveUI/images", "libs/LoveUI/sounds" }
