@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="http://bartbes.github.com/0publish/love.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>love</name>
+  <summary>A 2D lua game engine</summary>
+  <description>
+LÖVE is an unquestionably awesome 2D game engine, which allows rapid game
+development and prototyping in Lua.</description>
+  <homepage>http://love2d.org</homepage>
+  <category>Development</category>
+  <icon href="http://love2d.org/logos/love-app-logo-256x256.png" type="image/png"/>
+  <group license="OSI Approved :: zlib/libpng License"/>
+  <implementation arch="Linux-i686" id="sha1new=6781f7b45650602c05746a33ae8b105ff9a9b4d3" main="love" released="2010-05-24" stability="developer" version="0.7.0" version-modifier="-pre1">
+    <archive href="http://bartbes.github.com/0install/love-0.7.0a-linux-i686.tar.gz" size="4055914" type="application/x-compressed-tar"/>
+    <requires interface="http://freenet-homepage.de/LinuxCNC/0install/SDL/sdl.xml">
+      <environment insert="lib" mode="prepend" name="LD_LIBRARY_PATH"/>
+    </requires>
+  </implementation>
+</interface>
+<!-- Base64 Signature
+iEYEABECAAYFAkv5qGIACgkQ5AByJYs6+IFLbQCeLXfoWpCfeh+SPu2u1h6kee61hxMAn0aVahcj
+34MeLgCCFN5F0ItYm9Mx
+
+-->
