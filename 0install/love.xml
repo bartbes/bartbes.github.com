@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type='text/xsl' href='interface.xsl'?>
-<interface uri="http://bartbes.github.com/0publish/love.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+<interface uri="http://bartbes.github.com/0install/love.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
   <name>love</name>
   <summary>A 2D lua game engine</summary>
   <description>
@@ -18,7 +18,7 @@ development and prototyping in Lua.</description>
   </implementation>
 </interface>
 <!-- Base64 Signature
-iEYEABECAAYFAkv5qGIACgkQ5AByJYs6+IFLbQCeLXfoWpCfeh+SPu2u1h6kee61hxMAn0aVahcj
-34MeLgCCFN5F0ItYm9Mx
+iEYEABECAAYFAkv6HQgACgkQ5AByJYs6+IExzgCcDHM7vu8zzp4aYsRxcsHdlb9Dj+sAoI6Pexf5
+/9etF1itJvSuha0vCCGe
 
 -->
